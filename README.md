@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1500&color=FFFFFF&background=000000&center=true&vCenter=true&random=false&width=800&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&background=161B22&center=true&vCenter=true&random=false&width=1700&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF)](https://git.io/typing-svg)
+
 
 <p align="center">
     <img width="300" src="https://github.com/yoongtaufoo/yoongtaufoo/blob/main/output-onlinegiftools.gif" alt="Cat"/>
