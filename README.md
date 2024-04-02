@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=FFFFFF&background=4C839A00&center=true&vCenter=true&random=false&width=900&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF)](https://git.io/typing-svg)
 
 <p align="center">
-  ![output-onlinegiftools](https://github.com/yoongtaufoo/yoongtaufoo/assets/81151290/9d4a86c5-14eb-472d-b12d-6f6e9e4d4367)
+    <img width="200" src="[http://material-bread.org/logo-shadow.svg](https://picx.zhimg.com/v2-37159e868065320cb3b5087d962b146a_1440w.gif?source=172ae18b)" alt="Cat">
 </p>
 
 
