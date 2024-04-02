@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=63A7C3&center=true&vCenter=true&random=false&width=500&lines=Hello+World+Goodbye+World)](https://git.io/typing-svg)
+
 <!--
 **yoongtaufoo/yoongtaufoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
