@@ -57,8 +57,6 @@ Hi! I'm Yoong Jing Yi, I am a student in the Software Maintenance and Evolution 
 
 <div align="center">
 
-![yoongtaufoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoongtaufoo&show_icons=true&theme=transparent)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoongtaufoo&layout=donut)](https://github.com/yoongtaufoo/github-readme-stats)
 
 </div>
