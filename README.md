@@ -10,6 +10,8 @@
 
 Hi! I'm Yoong Jing Yi, I am a student in the Software Maintenance and Evolution course. I expect to learn how to maintain and improve existing software systems by fixing bugs, adding new features, and adapting applications to changing environments in order to ensure software reliability and scalability over time.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoongtaufoo&layout=donut)](https://github.com/yoongtaufoo/github-readme-stats)
+
 
 <!--
 **yoongtaufoo/yoongtaufoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
